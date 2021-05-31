@@ -44,4 +44,10 @@ const sortWords = (array) => {
 
 testNum(9).then(result => console.log(result)).catch(error => console.log(error));
 
+<<<<<<< HEAD
 makeAllCaps(arrayOfWords).then(sortWords(arrayOfWords)).then(result => console.log(result)).catch(error => console.log(error));
+=======
+makeAllCaps(arrayOfWords).then(sortWords(arrayOfWords)).then(result => console.log(result)).catch(error => console.log(error));
+
+
+>>>>>>> e95d7e5e4d8550dfe32b1e9fb728508cded2d809
